@@ -1,5 +1,8 @@
 # dsh-boot-splash
 
+> 本仓**只有 vk 版**：位置 —— 不是插件：开机片头层（盖住页面未渲染时的空白），需先装 [dsh-vk-suite](https://github.com/Ln1m/dsh-vk-suite) 契约 + 骨架。
+> 冲突：一个槽位只渲染优先级最高的一条，同优先级重复注册会直接抛错；与占同一位置的插件互斥（详见 [dsh-vk-suite](https://github.com/Ln1m/dsh-vk-suite) 的「推荐怎么用 / 会跟谁冲突」）。
+
 [English](README.en.md) · 中文
 
 ![片头画面](assets/intro-1.png)
