@@ -55,7 +55,7 @@ splash.ReleaseToUser();
 splash.Hide();
 ```
 
-`src/BootSplashOverlay.cs` is the reusable form of this logic; the equivalent implementation inside the DSH desktop shell ([Ln1m/dsh-desktop](https://github.com/Ln1m/dsh-desktop)) is inlined in its `App.cs`.
+`src/BootSplashOverlay.cs` is the reusable form of this logic; the equivalent implementation inside the DSH desktop shell ([Ln1m/dsh-host-desktop](https://github.com/Ln1m/dsh-host-desktop)) is inlined in its `App.cs`.
 
 ## Behaviour
 

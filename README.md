@@ -55,7 +55,7 @@ splash.ReleaseToUser();
 splash.Hide();
 ```
 
-`src/BootSplashOverlay.cs` 是这份逻辑的可复用整理版；DSH 桌面套壳（[Ln1m/dsh-desktop](https://github.com/Ln1m/dsh-desktop)）里的等价实现内联在它的 `App.cs`。
+`src/BootSplashOverlay.cs` 是这份逻辑的可复用整理版；DSH 桌面套壳（[Ln1m/dsh-host-desktop](https://github.com/Ln1m/dsh-host-desktop)）里的等价实现内联在它的 `App.cs`。
 
 ## 行为细节
 
